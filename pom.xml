@@ -27,7 +27,7 @@
   </parent>
 
   <groupId>org.mybatis</groupId>
-  <version>${project.version}</version>
+  <version>Version26</version>
   <artifactId>jpetstore</artifactId>
   <packaging>war</packaging>
 
