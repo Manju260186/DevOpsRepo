@@ -48,7 +48,7 @@
    |
    | Default: ~/.m2/repository
    -->
-  <localRepository>C:/Users/Manju/.m26/repository</localRepository>
+  <localRepository>C:/Users/Manju/maven-repo</localRepository>
   
 
   <!-- interactiveMode
